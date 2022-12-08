@@ -1,10 +1,11 @@
 # the-frontenders
 
-## Projeto desenvolvido em grupo durante o Bootcamp Programadores Cariocas/Resilia. Consiste na criação do site de um serviço de assinatura.
+## Projeto desenvolvido em grupo durante o Bootcamp Programadores Cariocas/Resilia. Tema ainda sendo discutido.
 
 | Participantes | Páginas desenvolvidas|
 | ------------- | -------------------- |
-| Allan Galamba | Recuperção de senha |
-| Camilla Fernandes | Landing Page e Planos|
-| Raiane Gomes | About us e Login |
+| Clara Souza | *** |
+| Lucas Oliveria | *** |
+| Luis Felipe | *** |
+| Raiane Gomes | *** |
 | Thiago Lessa | Cadastro |
