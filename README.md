@@ -8,4 +8,4 @@
 | Lucas Oliveria | *** |
 | Luis Felipe | *** |
 | Raiane Gomes | *** |
-| Thiago Lessa | Cadastro |
+| Thiago Lessa | *** |
